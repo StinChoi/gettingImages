@@ -8,5 +8,3 @@
 
 
 u1 = User.create(email: 'test@test.com', password:123456)
-
-p u1;
